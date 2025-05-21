@@ -9,3 +9,5 @@ Power BI Analysis on Superstore
 - Profits By Customer Name
 - Profits By Category
 - Profits By Region
+
+![](https://github.com/Smithley/Superstore-Project/blob/main/PBI%20SUPERSTORE%20ANALYSIS.JPG)
